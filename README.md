@@ -3,7 +3,6 @@
 ![giphy](https://user-images.githubusercontent.com/52050768/225147991-61c2f65b-c260-48d7-982c-647ff84cf6bf.gif)
 
 
-- 🌱 I’m currently learning **AI,ML,DL and C programming**
 
 - 📫 How to reach me **ahatomer45@gmail.com**
 
